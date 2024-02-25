@@ -1,0 +1,17 @@
+h1{
+    background-color: blue;
+    -webkit-text-fill-color: chartreuse;
+    font-size: larger;
+}
+p{
+    font-style: italic;
+
+}
+div{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRxehSBnWpQP5icKbX6UfGGfcniPeGyTYey44q6ZUicw&s);
+     background-repeat: no-repeat; 
+    height: 350px;
+    width: 350px;
+    background-color: bisque;
+    background-position: right;
+}

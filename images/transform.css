@@ -1,0 +1,34 @@
+div {
+    margin-left: 50px;
+    margin: 100px;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 1px solid red;
+    /* transform: translate(100px,100px); */
+    /* transform: rotate(10deg); */
+    /* transform: scaleX(3,5); */
+    /* transform: rotate(45deg); */
+    /* transform: perspective(200px); */
+    animation-name: colorchange;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+@keyframes colorchange{
+    10%{
+        transform: rotate(90deg);
+        /* background-color: blueviolet; */
+    }
+    25%{
+        transform: rotate(120deg);
+        /* background-color: black; */
+    }
+    50%{
+        transform: rotate(150deg);
+        /* background-color: red; */
+    }
+    100%{
+        transform: rotate(180deg);
+        /* background-color: yellowgreen; */
+    }
+}

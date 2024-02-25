@@ -1,0 +1,36 @@
+.container{
+    border: 5px solid red;
+}
+.container-fluid{
+    border: 5px solid green;
+}
+.row{
+    border: 3px solid blue;
+}
+.pink{
+    background: pink;
+}
+.orange{
+    background: orange;
+}
+.blue{
+    background: blue;
+}
+.cyan{
+    background: cyan;
+}
+.green{
+background: green;
+}
+.col-sm-4{
+    background: yellow;
+    border: 1px dashed;
+}
+.col-sm-8{
+    background: yellow;
+    border: 1px dashed;
+}
+.jumbotron{
+    position: fixed;
+    bottom: 0px;
+}

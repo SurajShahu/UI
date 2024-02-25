@@ -1,0 +1,33 @@
+/* .design{
+    color: rgb(150,147,90);
+    font-size: 14px;
+    line-height: 100%;
+    font-family: cursive;
+    background-color: #F0F5FF;
+}
+h1{
+    color: #F0F5FF;
+    text-shadow: 2px 4px 3px #000000;
+}
+h2{
+    text-shadow: 1px 1px 6px green,0 0 5px gray;
+}
+h3{
+    text-shadow: 2px 2px;
+    box-shadow: 03px 02px 032px green ;
+    height: 100px;
+    width: 100px;
+} */
+.div0{
+    background-image: url(https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=) top left,url(https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80) bottom right;
+    /* padding: 60px; */
+    background-repeat: no-repeat;
+    /* margin: 50px; */
+    width: 1000px; 
+    height: 1000px;
+    /* word-wrap: break-word;  */ 
+    border: 2px solid red;
+}
+.div1{
+ height: 25px;
+}

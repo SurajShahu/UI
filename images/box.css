@@ -1,0 +1,7 @@
+div{
+    width: 250px;
+    height: 250px;
+    background-color: aquamarine;
+    border: 5px dashed black;
+    border-bottom: 3px solid red;
+}
